@@ -1,0 +1,15 @@
+{
+  "source": "/home/zoro/DEV/chatbot/sample_data/a_city_skyline_with_a_sunset_in_the_background.png",
+  "type": "image",
+  "images": [
+    {
+      "image": "a_city_skyline_with_a_sunset_in_the_background.png",
+      "result": {
+        "ocr_text": "\u041b\u0406\u0422\u041e\u0420\u0421",
+        "image_description": "This image captures a **dramatic urban skyline at sunset**, where the interplay of light and shadow creates a striking contrast between the fiery sky and the dark, silhouetted cityscape.  \n\n### Sky and Atmosphere  \nThe sky dominates the upper half of the frame, showcasing a **large, billowy cloud formation** split into two distinct tones:  \n- On the **left**, a vast section of clouds glows in **intense orange-pink hues**, reminiscent of a setting sun\u2019s warm radiance. The colors blend into deeper reds and purples, creating a soft, almost ethereal glow.  \n- On the **right**, the sky transitions into a **muted, dark gray-blue**, almost black in tone, emphasizing the dramatic contrast with the vibrant left side. The clouds appear layered and textured, with subtle gradations that suggest depth and movement.  \n\nThe lighting implies the sun is setting in the west (left side of the image), casting long, diffused light through the clouds. This creates a **halo effect** around the edges of the illuminated cloud mass, enhancing the scene\u2019s moody, contemplative atmosphere.  \n\n### Urban Landscape  \nIn the foreground, a **dense cluster of mid-rise buildings** forms the cityscape. These structures are mostly **silhouetted** against the sky, their shapes defined by the low-angle light. Key details include:  \n- A **prominent cylindrical tower** ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( (",
+        "table_data": "{}",
+        "flowchart": "empty string"
+      }
+    }
+  ]
+}
